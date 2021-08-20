@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+  "engines": {
+    "node": "v14.17.3"
+  },
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
